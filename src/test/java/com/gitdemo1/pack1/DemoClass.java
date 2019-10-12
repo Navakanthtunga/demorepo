@@ -6,4 +6,5 @@ public class DemoClass {
 		
 		System.out.println("Hello World 2");
 	}
+	// this is a comment in java
 }
